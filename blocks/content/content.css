@@ -1,11 +1,12 @@
 .content {
   display: grid;
-  row-gap: 92px; 
+  row-gap: 92px;
 }
 
 @media screen and (max-width: 896px) {
   .content {
-    row-gap: 90px;  }
+    row-gap: 90px;
+  }
 }
 
 @media screen and (max-width: 500px) {
