@@ -9,7 +9,7 @@
   align-items: stretch;
 }
 
-@media screen and (max-width: 1183px) {
+@media screen and (max-width: 1200px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fill, 300px);
     gap: 14px;
