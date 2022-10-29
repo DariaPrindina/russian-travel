@@ -14,29 +14,26 @@
     grid-template-columns: repeat(auto-fill, 300px);
     gap: 14px;
     max-width: 928px;
-    margin: 0 auto;
   }
 }
 
-@media screen and (max-width: 930px) {
+@media screen and (max-width: 950px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fill, 352px);
     gap: 16px;
     max-width: 720px;
-    margin: 0 auto;
   }
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 750px) {
   .photo-grid {
     grid-template-columns: repeat(auto-fill, 288px);
     gap: 16px;
     max-width: 700px;
-    margin: 0 auto;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 610px) {
   .photo-grid {
     grid-template-columns: 288px;
     gap: 12px;
