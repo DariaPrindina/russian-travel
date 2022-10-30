@@ -10,9 +10,9 @@
   margin: 56px auto 32px;
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 1152px) {
   .lead__title {
-    margin-top: 48px;
+    margin: 48px auto 32px;
   }
 }
  
@@ -21,7 +21,7 @@
       max-width: 288px;
       font-size: 40px;
       line-height: 44px;
-      margin-bottom: 16px;
+      margin: 48px auto 16px;
   }
 }
 

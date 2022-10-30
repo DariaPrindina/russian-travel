@@ -1,12 +1,18 @@
 .lead__image {
   display: flex;
-  max-width: 1184px;
+  max-width: 984px;
   margin: 0 auto 0;
 }
 
-@media screen and (max-width: 1190px) {
+@media screen and (max-width: 1152px) {
   .lead__image {
-      width: 100%;
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .lead__image {
+    width: 100%;
   }
 }
 
